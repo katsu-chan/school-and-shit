@@ -4,7 +4,7 @@
     [x] - chemie
         [x] - 6
         [x] - 8
-    [ ] - biologie 5
+    [x] - biologie 5
     [ ] - literature 1n
   
 [ ] - 2024-10-13
