@@ -1,9 +1,9 @@
 # Schedule
 
 [ ] - 2024-10-12
-    [ ] - chemie
-        [ ] - 6
-        [ ] - 8
+    [x] - chemie
+        [x] - 6
+        [x] - 8
     [ ] - biologie 5
     [ ] - literature 1n
   
