@@ -1,11 +1,11 @@
 # Schedule
 
-[ ] - 2024-10-12
+[x] - 2024-10-12
     [x] - chemie
         [x] - 6
         [x] - 8
     [x] - biologie 5
-    [ ] - literature 1n
+    [x] - literature 1n
   
 [ ] - 2024-10-13
     [ ] - biologie
