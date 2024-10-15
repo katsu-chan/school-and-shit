@@ -11,7 +11,7 @@
     [x] - biologie
         [x] - 8
         [x] - 1n
-    [ ] - Life Safety 7
+    [x] - Life Safety 7
     [ ] - chemie 1n
 [ ] - 2024-10-14
     [ ] - chemie 2n
