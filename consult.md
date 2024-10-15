@@ -8,9 +8,9 @@
     [x] - literature 1n
   
 [ ] - 2024-10-13
-    [ ] - biologie
+    [x] - biologie
         [x] - 8
-        [ ] - 1n
+        [x] - 1n
     [ ] - Life Safety 7
     [ ] - chemie 1n
 [ ] - 2024-10-14
