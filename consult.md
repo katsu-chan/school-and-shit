@@ -7,12 +7,12 @@
     [x] - biologie 5
     [x] - literature 1n
   
-[ ] - 2024-10-13
+[x] - 2024-10-13
     [x] - biologie
         [x] - 8
         [x] - 1n
     [x] - Life Safety 7
-    [ ] - chemie 1n
+    [x] - chemie 1n
 [ ] - 2024-10-14
     [ ] - chemie 2n
     [ ] - geographie
