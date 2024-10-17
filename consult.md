@@ -32,7 +32,7 @@
         [ ] - 4
         [ ] - 5
 [ ] - 2024-10-17
-    [ ] - historie 2n
+    [x] - historie 2n
     [ ] - physics 7
     [ ] - geometry 3
 [ ] - 2024-10-18
