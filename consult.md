@@ -46,12 +46,12 @@
     [ ] - englisch 8
     [ ] - literature
         [ ] - 8
-        [ ] - 1n
+        [x] - 1n
 
 -----
 
 [ ] - Unscheduled
-    [ ] - literature 1n
+    [x] - literature 1n
     [ ] - algebra
         [ ] - 6
         [ ] - 8
