@@ -14,7 +14,7 @@
     [x] - Life Safety 7
     [x] - chemie 1n
 [ ] - 2024-10-14
-    [ ] - chemie 2n
+    [x] - chemie 2n
     [ ] - geographie
         [ ] - 4
         [ ] - 8
