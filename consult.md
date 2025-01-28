@@ -59,3 +59,44 @@
         [ ] - 6
         [ ] - 7
         [ ] - 2n
+
+---
+
+# 2024-12-21
+
+| Column1 | Column2 |
+| -------------- | --------------- |
+| Item1.1 | Item2.1 |
+| Item1.2 | Item2.2 |
+
+| Item | Numbers | first? |
+| --- | --- | --- |
+| russian | 14,15+3n | [ ] |
+| lit | 11,16+3n | [ ] |
+| anglais -- 14,17+3n [ ]
+| algebra -- 14 [x]
+geometry -- 14,16 [x]
+physics -- 12,15,16 [ ]
+CS -- 12,15 [x]
+propstat -- 16 [x]
+historie -- 13,17+3n [ ]
+socstud -- 11,13,15,17 [ ]
+geographie -- 16,17 [x]
+chemie -- 12,15+3n [ ]
+biologie -- 13,15 [x]
+
+# 2025-01-25
+
+[ ] -- literature -- 22
+[ ] -- english -- 21
+[ ] -- algebra -- 22
+[ ] -- geometry -- 22
+[ ] -- physics -- 21, 22
+[ ] -- compsci -- 21
+[ ] -- historie -- 21
+[ ] -- socstud -- 21, 22
+[ ] -- geographie -- 22
+[ ] -- chemie -- 22
+[ ] -- biologie -- 1n
+[ ] -- warplaying -- 22
+[ ] -- do indproj
